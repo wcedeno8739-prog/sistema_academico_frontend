@@ -1,4 +1,4 @@
-const API_URL = "https://sistema-academico-api-8p4j.onrender.com";
+const API_URL = "https://sistema-academico-api-etmg.onrender.com";
 
 // --- ESTADO GLOBAL ---
 let usuariosLista = [];
